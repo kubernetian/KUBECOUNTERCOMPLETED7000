@@ -1,2 +1,3 @@
-# KUBECOUNTERCOMPLETED7000
-Counting completed pods? Say no more! 
+# KubeCounterCompleted7000
+
+![KUBECOUNTERCOMPLETED7000](mediafiles/kubecountercompleted7000.jpg)
